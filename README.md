@@ -11,7 +11,7 @@
 ## Images
 ![Image](Datasets/img/Dashboard.PNG)
 ![Image](Datasets/img/Cheese_with_most_calories.PNG)
-![Image](Datasets/img/Fruits_with_most vitamins.PNG)
+![Image](Datasets/img/Fruits_with_most_vitamins.PNG)
 
 #Conclusion
 - Found the cheese with the most amount of calories
